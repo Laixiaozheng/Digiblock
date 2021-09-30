@@ -17,7 +17,7 @@ available for [download](https://github.com/hneemann/Digital/releases/latest/dow
 On Windows machines the EXE file can be executed, on Linux start the shell script
 and on MacOS the JAR file can be started directly.
 A [Java Runtime Environment](https://www.java.com/) (at least JRE 8) is required
-to run Digital.
+to run Digiblock.
 
 If there are any problems starting Digital on your system, please try to
 run Digital from a command line:
